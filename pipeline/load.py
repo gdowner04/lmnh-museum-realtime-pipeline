@@ -1,3 +1,5 @@
+"""Code to load kiosk interaction data into the database."""
+
 # load.py
 import psycopg2
 
